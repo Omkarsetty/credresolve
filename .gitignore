@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+*.py[cod]
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+smartdialer.db
